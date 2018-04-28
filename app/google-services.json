@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "399080402993",
+    "firebase_url": "https://ekkproject-bf3a6.firebaseio.com",
+    "project_id": "ekkproject-bf3a6",
+    "storage_bucket": "ekkproject-bf3a6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:399080402993:android:328ba5206cc07c48",
+        "android_client_info": {
+          "package_name": "com.project.esoft.ekk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "399080402993-0taoq5nh3cp8ldun40ibgbg1eimtnbrv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAldDozfmevzfMEspEIPJOiBgRvkJJ9bqw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
